@@ -1,0 +1,34 @@
+{
+    "weapon-blessing-traits":{
+        "url":"https://darktide.gameslantern.com/weapon-blessing-traits",
+        "selenium":true,
+        "html_text": [{"search": "Adhesive Charge", "header":"Blessing", "method":"by_class_text"}, 
+        {"search": "Your Grenades stick to Monstrosities", "header":"Description", "method":"by_class_text"}, 
+        {"search": "list-disc text-xs pl-24 pt-2 text-neutral-200", "header":"Associated Weapons", "method":"by_class", "subsearch":"li", "subsearch_method":"by_element"}]
+    },
+    
+    "curios":{
+        "url":"https://darktide.gameslantern.com/curios",
+        "selenium":false,
+        "html_text": [{"search": "+1 Wound(s)", "header":"Blessing", "method":"by_sibling_text"}, 
+                    {"search": "+10-20% Corruption Resistance (Grimoires)", "header":"Perk", "method":"by_sibling_text"}]
+    },
+
+    "weapons":{
+        "url":"https://darktide.gameslantern.com/weapons",
+        "selenium":true,
+        "html_text": [{"search": "Accatran MG Mk II Heavy Laspistol", "header":"Weapon", "method":"by_class_text"}, 
+        {"search":"Used by officers of the Astra Militarum throughout the galaxy, this heavy laspistol packs a considerable punch.", "header":"Description", "method":"by_class_text"}]           
+    },
+
+    "modifiers":{
+        "url":"https://darktide.gameslantern.com/modifiers",
+        "selenium":false,
+        "html_text": [{"search":"Blast Damage", "header":"Modifier", "method":"by_class_text"}, 
+        {"search":"\nMeasure of the explosion Damage.\n", "header":"Description", "method":"by_class_text"}]
+    }
+}
+    
+
+
+

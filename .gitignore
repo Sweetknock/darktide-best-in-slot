@@ -162,6 +162,6 @@ vignettes/*.pdf
 
 .venv
 
-token.json
-credentials.json
+/archive
+.gitignore
 # End of https://www.gitignore.io/api/r,python,visualstudiocode

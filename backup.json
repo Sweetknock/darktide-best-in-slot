@@ -1,0 +1,1252 @@
+{
+ "weapon-blessing-traits": {
+  "Blessing": [
+   "Adhesive Charge",
+   "All or Nothing",
+   "Bash",
+   "Between the Eyes",
+   "Blaze Away",
+   "Blazing Spirit",
+   "Blazing Spirit",
+   "Bloodletter",
+   "Bloodthirsty",
+   "Born in Blood",
+   "Brutal Momentum",
+   "Can Opener",
+   "Cavalcade",
+   "Ceaseless Barrage",
+   "Charmed Reload",
+   "Confident Strike",
+   "Crucian Roulette",
+   "Deadly Accurate",
+   "Deathblow",
+   "Deathspitter",
+   "Decapitator",
+   "Decimator",
+   "Deflector",
+   "Devastating Strike",
+   "Devastating Strike",
+   "Devastating Strike",
+   "Dumdum",
+   "Efficiency",
+   "Executor",
+   "Exorcist",
+   "Expansive",
+   "Falter",
+   "Fan the Flames",
+   "Fire Frenzy",
+   "Flechette",
+   "Flesh Tearer",
+   "Focused Channeling",
+   "Full Bore",
+   "Gets Hot!",
+   "Ghost",
+   "Gloryhunter",
+   "Hammerblow",
+   "Hand-Cannon",
+   "Haymaker",
+   "Headhunter",
+   "Headtaker",
+   "Hit & Run",
+   "Infernus",
+   "Infernus",
+   "Infernus",
+   "Inspiring Barrage",
+   "Lacerate",
+   "Limbsplitter",
+   "Man-Stopper",
+   "Mercy Killer",
+   "Momentum",
+   "No Respite",
+   "Onslaught",
+   "Opening Salvo",
+   "Overpressure",
+   "Perfect Strike",
+   "Pierce",
+   "Pinning Fire",
+   "Pinpointing target",
+   "Point Blank",
+   "Powderburn",
+   "Power Cycler",
+   "Precognition",
+   "Punishing Fire",
+   "Punishing Salvo",
+   "Quickflame",
+   "Raking Fire",
+   "Rampage",
+   "Reassuringly Accurate",
+   "Rending Shockwave",
+   "Rev It Up",
+   "Riposte",
+   "Roaring Advance",
+   "Run 'N' Gun",
+   "Ruthless Backstab",
+   "Savage Sweep",
+   "Savage Sweep",
+   "Savage Sweep",
+   "Scattershot",
+   "Shattering Impact",
+   "Shock & Awe",
+   "Showstopper",
+   "Shred",
+   "Shred",
+   "Skullcrusher",
+   "Slaughterer",
+   "Smackdown",
+   "Speedload",
+   "Speedload",
+   "Stripped Down",
+   "Sunder",
+   "Supercharge",
+   "Superiority",
+   "Surgical",
+   "Surgical",
+   "Surgical",
+   "Surgical",
+   "Sustained Fire",
+   "Tenderiser",
+   "Terrifying Barrage",
+   "Thrust",
+   "Thunderous",
+   "Thunderstrike",
+   "Transfer Peril",
+   "Trauma",
+   "Trickshooter",
+   "Uncanny Strike",
+   "Unstable Power",
+   "Unstoppable Force",
+   "Vicious Slice",
+   "Volatile Impact",
+   "Warp Flurry",
+   "Warp Nexus",
+   "Wrath"
+  ],
+  "Description": [
+   "Your Grenades stick to Monstrosities",
+   "Up to +2-5% Power, scaling with Stamina.",
+   "+1-4% Critical Chance for 3 seconds on Punishing Enemies.",
+   "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+   "Up to +2% Power based on how long you keep shooting.",
+   "Enemy gains +1-2 Stacks of Soulblaze on Critical Hit.",
+   "Enemy gains +2-4 Stacks of Soulblaze on Critical Hit.",
+   "+2-4 Bleed Stacks from Special Attacks.",
+   "100% Critical Chance on Special Attack Kill.",
+   "+1-2.5% Toughness on Close Range Kill.",
+   "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+   "+1-4 Rending on Special Attack (Armoured enemies).",
+   "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+   "Continuous firing increases Suppression over time.",
+   "+8 Bullets loaded on Critical Hit.",
+   "+5-8% Toughness on Chained Hit",
+   "+4% Critical Chance for each empty chamber in your weapon.",
+   "Adds 27.5-50% additional damage on crit weakspot hits.",
+   "Ignore Enemy Hit Mass for 3.5 seconds on Weak Spot Kill.",
+   "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+   "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+   "+10-20% Power on Hit. Stacks 5 times.",
+   "This Weapon blocks both Melee and Ranged attacks. Additionally, Block Cost is reduced by 3-12%.",
+   "Ignore Enemy Hit Mass on Critical Hit. Lasts 2-4 seconds.",
+   "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+   "Ignore Enemy hit mass on critical hit. Lasts 3-4 seconds.",
+   "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+   "+33% Reduced Ammo use after not shooting for 5.5-4 seconds.",
+   "+2-5% on Repeated Weak Spot Hit. Stacks 5 times.",
+   "Quell 2-5% of Peril on repeated weak spot hit.",
+   "+2-5% Melee Power for 4 seconds on Hitting 3+ Enemies with a Ranged Attack.",
+   "+30-60% Target Stagger on Weak Spot Hit.",
+   "Primary Attack ignores  30-60% Stagger Resistance on Burning Enemies.",
+   "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+   "+1 Bleed Stacks on Critical Hit.",
+   "+1-4 Bleed Stacks on Critical Hits.",
+   "Your Secondary Attack cannot be interrupted.",
+   "+2-5% Power for 5 seconds when every pellet in a shot hits the same enemy.",
+   "Up to +1-4% Critical Chance (scales on Heat Level).",
+   "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+   "+4-10% Toughness on Elite Kill.",
+   "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+   "+20-35% Rending on Critical Hit.",
+   "+1-4% to Instakill human-sized enemies on Chained Heavy Hit. Stacks 5 Times.",
+   "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+   "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+   "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+   "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+   "+1-2 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+   "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+   "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+   "+1-4 Bleed Stacks on non-Weak Spot Hits.",
+   "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+   "Increased Cleave on Critical Hit.",
+   "+20-50% Weak Spot Damage (Enemies with Bleed Stacks).",
+   "+7.5-15% Toughness on Multiple Melee Hit.",
+   "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+   "Chaining Charged Attacks reduces their Charge Time by -4-10%. Stacks 5 times.",
+   "+7.55-15% Power on Salvo's First shot.",
+   "Up to +2-5% Power, scaling with remaining Ammunition. Stacks 5 times.",
+   "Critical Hits ignore Hit Mass Bonus from Armour",
+   "Special Attacks ignore Hit Mass Bonus from Armour.",
+   "+5-20% Power for every Enemy you Stagger. Stacks 5 times.",
+   "Up to +5-20% Power based on the Charge Time of your Weapon special and Melee Attacks. Stacks 3 times.",
+   "+15-20% Ranged Critical Chance on Kill for 2 seconds.",
+   "+5-15% Suppression and +5-15% Recoil on close range kill.",
+   "Increased Energised Duration on Chained Energised Hits.",
+   "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+   "+2-8% Power on Ranged Attacks for 3 seconds on Multiple Hit Special Attack.",
+   "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+   "+5-10% Reload Speed if empty.",
+   "+15-30% Damage when shooting Enemies in the back.",
+   "+10-20% damage for 3 seconds on Multiple Hit.",
+   "+4-10% Toughness on Critical Hit Kill",
+   "Up to +2-8 Rending, scaling with your charge time of Secondary Attack.",
+   "+5-15% Movement Speed for 2 seconds on Weapon Speical Activation.",
+   "+2-5% Critical Chance for 5 seconds on successful Dodge.",
+   "5-15% Movement Speed while firing.",
+   "You can Hipfire with this weapon while Sprinting.",
+   "+20-50% Rending on Backstab Hit.",
+   "+100-200% Cleave for 3 seconds on Multiple Melee Hit",
+   "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+   "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+   "+4% Critical Chance for 4 seconds on Multiple Hit.",
+   "+1-4 Rending (Armoured Enemies).",
+   "-25-40% Enemy Hit Mass for 0.5 seconds on kill. Stacks 5 times.",
+   "+5-20% Elite enemy Explodes on kill.",
+   "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+   "Consecutive hits increases critical hit chance by 2-5% per hit. Stacks 5 times.",
+   "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+   "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+   "+5-10% Critical Chance for 2 seconds on Special Action Hit (Staggered Enemy).",
+   "+4-10% Reload Speed for 2 seconds after Sliding.",
+   "+4-10% Reload Speed for 2 seconds after Sliding.",
+   "+3-9% Sprint Speed (Weapon is Active).",
+   "Your Energised Attacks have increased Cleave",
+   "+1-4 Rending on Energised Hit.",
+   "+5% Power for 5 seconds on Elite Kill. Stacks 5 times.",
+   "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+   "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+   "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+   "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+   "+6-15% Damage on Second and Third shots in a Salvo",
+   "+7.5-15% Power (next attack) on Special Action Hit.",
+   "Suppress Enemies within 5-8m Radius on Close range Kill.",
+   "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+   "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s.",
+   "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+   "Quell 2-5% of your Peril on Weak Spot Hit.",
+   "+5-10% Impact for 2 seconds on Repeated Hit. Stacks 5 times.",
+   "2-5% Power on Chained Weak Spot Hit (Any Target). Stacks 5 Times.",
+   "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times.",
+   "Up to +2-5% Power, scaling with Peril.",
+   "Heavy Attacks ignore Hit Mass Bonus From Armour.",
+   "+2-5% Damage to Target for each Enemy already Hit by the same Attack.",
+   "+1-4% Charge Speed on low Overheat. Stacks up to 5 times.",
+   "+-4-10% Charge Rate on chained Secondary Attack. Stacks 5 times.",
+   "Increases your critical hit chance by 2-5% at different increments of Peril up to 4 stacks.",
+   "+10-20% Cleave on Hit. Stacks 5 times."
+  ],
+  "Associated Weapons": [
+   [
+    "Lorenz Mk VI Rumbler"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Rashad MK II Combat Axe",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer",
+    "Blastoom Mk III Grenadier Gauntlet",
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Ius Mk III Shredder Autopistol",
+    "Krourk Mk V Twin-Linked Heavy Stubber",
+    "Lorenz Mk V Kickback",
+    "M35 Magnacore Mk II Plasma Gun"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff"
+   ],
+   [
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword",
+    "Orestes Mk IV Chainaxe",
+    "Tigrus Mk II Heavy Eviscerator"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword"
+   ],
+   [
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun"
+   ],
+   [
+    "Achlys Mk I Power Maul",
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Munitorum MK III Power Sword",
+    "Orox Mk II Battle Maul & Mk II Slab Shield",
+    "Rashad MK II Combat Axe",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun"
+   ],
+   [
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Ius Mk III Shredder Autopistol",
+    "Locke Mk IIb Spearheard Boltgun"
+   ],
+   [
+    "Krourk Mk V Twin-Linked Heavy Stubber"
+   ],
+   [
+    "Krourk Mk V Twin-Linked Heavy Stubber"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Achlys Mk I Power Maul",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver",
+    "Orox Mk II Battle Maul & Mk II Slab Shield"
+   ],
+   [
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun",
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Krourk Mk V Twin-Linked Heavy Stubber",
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Rashad MK II Combat Axe"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Rashad MK II Combat Axe",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword"
+   ],
+   [
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk I Infantry Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Krourk Mk V Twin-Linked Heavy Stubber"
+   ],
+   [
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun"
+   ],
+   [
+    "Catachan Mk III Combat Blade",
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Lorenz Mk V Kickback"
+   ],
+   [
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer"
+   ],
+   [
+    "Agripinaa Mk I Infantry Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Graia Mk VIII Infantry Autogun",
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Nomanus Mk VI Surge Force Staff",
+    "Rifthaven Mk II Purgatus Force Staff"
+   ],
+   [
+    "Lawbringer MK VI Combat Shotgun",
+    "Lorenz Mk V Kickback"
+   ],
+   [
+    "M35 Magnacore Mk II Plasma Gun"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Blastoom Mk III Grenadier Gauntlet",
+    "Locke Mk IIb Spearheard Boltgun",
+    "Lorenz Mk VI Rumbler",
+    "M35 Magnacore Mk II Plasma Gun",
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Crucis Mk II Thunder Hammer",
+    "Indignatus Mk IVe Crusher",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Crucis Mk II Thunder Hammer",
+    "Orestes Mk IV Chainaxe",
+    "Rashad MK II Combat Axe",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun"
+   ],
+   [
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer",
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Ius Mk III Shredder Autopistol",
+    "Krourk Mk V Twin-Linked Heavy Stubber",
+    "Locke Mk IIb Spearheard Boltgun",
+    "Lorenz Mk V Kickback",
+    "Lorenz Mk VI Rumbler"
+   ],
+   [
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Rashad MK II Combat Axe",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Bull Butcher Mk III Cleaver",
+    "Crucis Mk II Thunder Hammer",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver",
+    "Tigrus Mk II Heavy Eviscerator"
+   ],
+   [
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Lawbringer MK VI Combat Shotgun",
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun"
+   ],
+   [
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Kantrael MG Ia Infantry Lasgun",
+    "Kantrael MG IV Infantry Lasgun",
+    "Kantrael MG XII Infantry Lasgun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Tigrus Mk II Heavy Eviscerator",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Lorenz Mk V Kickback",
+    "Lorenz Mk VI Rumbler"
+   ],
+   [
+    "Locke Mk IIb Spearheard Boltgun"
+   ],
+   [
+    "Blastoom Mk III Grenadier Gauntlet"
+   ],
+   [
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Ius Mk III Shredder Autopistol"
+   ],
+   [
+    "Munitorum MK III Power Sword"
+   ],
+   [
+    "Catachan Mk III Combat Blade",
+    "Maccabian Mk II Duelling Sword",
+    "Maccabian Mk IV Duelling Sword",
+    "Maccabian Mk V Duelling Sword",
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Lorenz Mk V Kickback"
+   ],
+   [
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Ius Mk III Shredder Autopistol"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword",
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Maccabian Mk II Duelling Sword",
+    "Maccabian Mk IV Duelling Sword",
+    "Maccabian Mk V Duelling Sword",
+    "Munitorum MK III Power Sword",
+    "Tigrus Mk II Heavy Eviscerator",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Blastoom Mk III Grenadier Gauntlet"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword",
+    "Orestes Mk IV Chainaxe",
+    "Tigrus Mk II Heavy Eviscerator"
+   ],
+   [
+    "Maccabian Mk II Duelling Sword",
+    "Maccabian Mk IV Duelling Sword",
+    "Maccabian Mk V Duelling Sword",
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Krourk Mk V Twin-Linked Heavy Stubber"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Agripinaa Mk I Infantry Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Graia Mk VIII Infantry Autogun",
+    "Nomanus Mk VI Surge Force Staff",
+    "Rifthaven Mk II Purgatus Force Staff",
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword",
+    "Tigrus Mk II Heavy Eviscerator"
+   ],
+   [
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Munitorum MK III Power Sword",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ],
+   [
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Blastoom Mk III Grenadier Gauntlet",
+    "Locke Mk IIb Spearheard Boltgun",
+    "Lorenz Mk VI Rumbler",
+    "M35 Magnacore Mk II Plasma Gun"
+   ],
+   [
+    "Crucis Mk II Thunder Hammer"
+   ],
+   [
+    "Artemia Mk III Purgation Flamer"
+   ],
+   [
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Atrox Mk II Tactical Axe",
+    "Atrox Mk IV Tactical Axe",
+    "Atrox Mk VII Tactical Axe",
+    "Cadia Mk IV Assault Chainsword",
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk III Combat Blade",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Maccabian Mk II Duelling Sword",
+    "Maccabian Mk IV Duelling Sword",
+    "Maccabian Mk V Duelling Sword",
+    "Obscurus Mk II Blaze Force Sword",
+    "Orestes Mk IV Chainaxe",
+    "Rashad MK II Combat Axe",
+    "Tigrus Mk II Heavy Eviscerator"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Achlys Mk I Power Maul",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Cadia Mk IV Assault Chainsword",
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Crucis Mk II Thunder Hammer",
+    "Indignatus Mk IVe Crusher",
+    "Orox Mk II Battle Maul & Mk II Slab Shield",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Crucis Mk II Thunder Hammer",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver",
+    "Munitorum MK III Power Sword",
+    "Obscurus Mk II Blaze Force Sword",
+    "Orestes Mk IV Chainaxe"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Catachan Mk III Combat Blade"
+   ],
+   [
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Ius Mk III Shredder Autopistol"
+   ],
+   [
+    "Accatran MG Mk II Heavy Laspistol",
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Lawbringer MK VI Combat Shotgun"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun"
+   ],
+   [
+    "Munitorum MK III Power Sword"
+   ],
+   [
+    "Munitorum MK III Power Sword"
+   ],
+   [
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun"
+   ],
+   [
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun"
+   ],
+   [
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Locke Mk IIb Spearheard Boltgun",
+    "Lorenz Mk V Kickback"
+   ],
+   [
+    "Accatran Mk II Recon Lasgun",
+    "Accatran Mk VId Recon Lasgun",
+    "Accatran Mk VIIa Recon Lasgun",
+    "Agripinaa Mk I Infantry Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Graia Mk VIII Infantry Autogun",
+    "Ius Mk III Shredder Autopistol",
+    "Lucius Mk I Helbore Lasgun",
+    "Lucius Mk II Helbore Lasgun",
+    "Lucius Mk III Helbore Lasgun",
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver"
+   ],
+   [
+    "Agripinaa Mk I Infantry Autogun",
+    "Agripinaa Mk VIII Braced Autogun",
+    "Agripinaa Mk VIII Headhunter Autogun",
+    "Columnus Mk II Braced Autogun",
+    "Columnus Mk V Infantry Autogun",
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Foe-Rend Mk II Ripper Gun",
+    "Foe-Rend Mk V Ripper Gun",
+    "Foe-Rend Mk VI Ripper Gun",
+    "Graia Mk IV Braced Autogun",
+    "Graia Mk VIII Infantry Autogun",
+    "Lawbringer MK VI Combat Shotgun",
+    "Nomanus Mk VI Surge Force Staff",
+    "Rifthaven Mk II Purgatus Force Staff",
+    "Vraks Mk III Headhunter Autogun",
+    "Vraks Mk VII Headhunter Autogun",
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Bull Butcher Mk III Cleaver",
+    "Crucis Mk II Thunder Hammer",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver",
+    "Orestes Mk IV Chainaxe",
+    "Rashad MK II Combat Axe",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "\u201cBrunt Special\u201d Mk I Bully Club",
+    "Achlys Mk VIII Combat Axe",
+    "Antax Mk V Combat Axe",
+    "Brute-Brainer MK III Latrine Shovel",
+    "Crucis Mk II Thunder Hammer",
+    "Orestes Mk IV Chainaxe",
+    "Rashad MK II Combat Axe"
+   ],
+   [
+    "Achlys Mk I Power Maul",
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Crucis Mk II Thunder Hammer",
+    "Indignatus Mk IVe Crusher",
+    "Orox Mk II Battle Maul & Mk II Slab Shield",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff"
+   ],
+   [
+    "Crucis Mk II Thunder Hammer",
+    "Indignatus Mk IVe Crusher"
+   ],
+   [
+    "Zarona Mk IIa Quickdraw Stub Revolver"
+   ],
+   [
+    "Catachan Mk III Combat Blade",
+    "Maccabian Mk II Duelling Sword",
+    "Maccabian Mk IV Duelling Sword",
+    "Maccabian Mk V Duelling Sword",
+    "Obscurus Mk II Blaze Force Sword",
+    "Standard-Issue Munitorum Sapper Shovel"
+   ],
+   [
+    "Obscurus Mk II Blaze Force Sword"
+   ],
+   [
+    "Bull Butcher Mk III Cleaver",
+    "Krourk MK IV Cleaver",
+    "Krourk Mk VI Cleaver"
+   ],
+   [
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword"
+   ],
+   [
+    "M35 Magnacore Mk II Plasma Gun"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Nomanus Mk VI Surge Force Staff",
+    "Rifthaven Mk II Purgatus Force Staff"
+   ],
+   [
+    "Equinox MK III Trauma Force Staff",
+    "Equinox Mk IV Voidstrike Force Staff",
+    "Nomanus Mk VI Surge Force Staff",
+    "Rifthaven Mk II Purgatus Force Staff"
+   ],
+   [
+    "Cadia Mk IV Assault Chainsword",
+    "Catachan Mk I \"Devil's Claw\" Sword",
+    "Catachan Mk IV \"Devil's Claw\" Sword",
+    "Catachan Mk VII \"Devil's Claw\" Sword",
+    "Tigrus Mk II Heavy Eviscerator",
+    "Turtolsky Mk IX Heavy Sword",
+    "Turtolsky Mk VI Heavy Sword",
+    "Turtolsky Mk VII Heavy Sword"
+   ]
+  ]
+ },
+ "curios": {
+  "Blessing": [
+   "+1 Wound(s)",
+   "+1-3 Max Stamina",
+   "+10-20% Toughness",
+   "+10-25% Max Health"
+  ],
+  "Perk": [
+   "+10-20% Corruption Resistance (Grimoires)",
+   "+2-10% Experience",
+   "+2-5% Health",
+   "+2-5% Toughness",
+   "+3-4% Combat Ability Regeneration",
+   "+4-10% Ordo Dockets (Mission Rewards)",
+   "+5-20% chance of Curio as Mission Reward (Instead of Weapon)",
+   "+5-20% Damage Resistance (Bombers)",
+   "+5-20% Damage Resistance (Gunners)",
+   "+5-20% Damage Resistance (Mutants)",
+   "+5-20% Damage Resistance (Pox Hounds)",
+   "+5-20% Damage Resistance (Snipers)",
+   "+5-20% Damage Resistance (Tox Flamers)",
+   "+5-20% Toughness Regeneration Speed",
+   "+6-12% Corruption Resistance",
+   "+6-12% Revive Speed (Ally)",
+   "+6-12% Sprint Efficiency",
+   "+6-12% Stamina Regeneration",
+   "+8-10% Block Efficiency",
+   "1-4% Cooldown Reduction",
+   "5-30% Toughness Damage Reduction",
+   "6-15% Sprint Cost Reduction"
+  ]
+ },
+ "weapons": {
+  "Weapon": [
+   "\u201cBrunt Special\u201d Mk I Bully Club",
+   "Accatran MG Mk II Heavy Laspistol",
+   "Accatran Mk II Recon Lasgun",
+   "Accatran Mk VId Recon Lasgun",
+   "Accatran Mk VIIa Recon Lasgun",
+   "Achlys Mk I Power Maul",
+   "Achlys Mk VIII Combat Axe",
+   "Agripinaa Mk I Infantry Autogun",
+   "Agripinaa Mk VIII Braced Autogun",
+   "Agripinaa Mk VIII Headhunter Autogun",
+   "Antax Mk V Combat Axe",
+   "Artemia Mk III Purgation Flamer",
+   "Atrox Mk II Tactical Axe",
+   "Atrox Mk IV Tactical Axe",
+   "Atrox Mk VII Tactical Axe",
+   "Blastoom Mk III Grenadier Gauntlet",
+   "Brute-Brainer MK III Latrine Shovel",
+   "Bull Butcher Mk III Cleaver",
+   "Cadia Mk IV Assault Chainsword",
+   "Catachan Mk I \"Devil's Claw\" Sword",
+   "Catachan Mk III Combat Blade",
+   "Catachan Mk IV \"Devil's Claw\" Sword",
+   "Catachan Mk VII \"Devil's Claw\" Sword",
+   "Columnus Mk II Braced Autogun",
+   "Columnus Mk V Infantry Autogun",
+   "Crucis Mk II Thunder Hammer",
+   "Equinox MK III Trauma Force Staff",
+   "Equinox Mk IV Voidstrike Force Staff",
+   "Foe-Rend Mk II Ripper Gun",
+   "Foe-Rend Mk V Ripper Gun",
+   "Foe-Rend Mk VI Ripper Gun",
+   "Graia Mk IV Braced Autogun",
+   "Graia Mk VIII Infantry Autogun",
+   "Indignatus Mk IVe Crusher",
+   "Ius Mk III Shredder Autopistol",
+   "Kantrael MG Ia Infantry Lasgun",
+   "Kantrael MG IV Infantry Lasgun",
+   "Kantrael MG XII Infantry Lasgun",
+   "Krourk MK IV Cleaver",
+   "Krourk Mk V Twin-Linked Heavy Stubber",
+   "Krourk Mk VI Cleaver",
+   "Lawbringer MK VI Combat Shotgun",
+   "Locke Mk IIb Spearheard Boltgun",
+   "Lorenz Mk V Kickback",
+   "Lorenz Mk VI Rumbler",
+   "Lucius Mk I Helbore Lasgun",
+   "Lucius Mk II Helbore Lasgun",
+   "Lucius Mk III Helbore Lasgun",
+   "M35 Magnacore Mk II Plasma Gun",
+   "Maccabian Mk II Duelling Sword",
+   "Maccabian Mk IV Duelling Sword",
+   "Maccabian Mk V Duelling Sword",
+   "Munitorum MK III Power Sword",
+   "Nomanus Mk VI Surge Force Staff",
+   "Obscurus Mk II Blaze Force Sword",
+   "Orestes Mk IV Chainaxe",
+   "Orox Mk II Battle Maul & Mk II Slab Shield",
+   "Rashad MK II Combat Axe",
+   "Rifthaven Mk II Purgatus Force Staff",
+   "Standard-Issue Munitorum Sapper Shovel",
+   "Tigrus Mk II Heavy Eviscerator",
+   "Turtolsky Mk IX Heavy Sword",
+   "Turtolsky Mk VI Heavy Sword",
+   "Turtolsky Mk VII Heavy Sword",
+   "Vraks Mk III Headhunter Autogun",
+   "Vraks Mk VII Headhunter Autogun",
+   "Zarona Mk IIa Quickdraw Stub Revolver"
+  ],
+  "Description": [
+   "Junk? Oo called it junk? Extra special club, this is. My own design. I got two meself just like it - Gurry \"Brunt\" Cernik.",
+   "Used by officers of the Astra Militarum throughout the galaxy, this heavy laspistol packs a considerable punch.",
+   "Accatran lasguns are typified by their short, almost carbine like profile, and high rate of fire, which make them ideal for use in the confines of boarding actions, cityfights, or trench warfare.",
+   "The Accatran Mk VI Series is an evolutionary offshoot of the Mk IV, so beloved of the Elysian Drop Troops. The improved rate of fire comes from its more efficient charge pack at the expense of stopping power.",
+   "They say the lasgun is a \"humble\" weapon. I say it's the most efficient tool in the galaxy. Billions of liberated souls can't be wrong. - Lord Militant Ennic Baross",
+   "The Achlys Mk I Power Maul is a new weapon that was added shortly post release.",
+   "Tough hardly a graceful weapon, many a duellist has met their end after practicing fancy swordplay on an axe-wielding zealot.",
+   "Unsubtle weapons, known for their excessive kick and bright muzzle flash, Agripinaa autoguns are still popular due to their stopping power and reliability.",
+   "Exchanging the iron sights of the better known Agripinaa autogun for heavy stock and counter-balanced barrel, this weapon is well-suited for mowing down hordes of foes.",
+   "One of the newest autogun STCs to be uncovered by the Tech-Priests of Agripinaa, the Mk VIII couples excellent range with a devastating burst firing mode.",
+   "Issued to planetary defenders during trench warfare, light axes are used not just for clearing paths and chopping firewood on long campaigns, but also for hacking away at invaders during desperate close actions.",
+   "Hailing from the same forge world as the mighty Hellhound flame tank, this weapon uses volatile promethium to scour heretics with fire.",
+   "Derived from ancient hunting weapon designs, tactical axes are simple and cheap to produce, and deadly in the hands of a trained warrior.",
+   "Axes, hammers, knives, sticks and stones. These are the weapons of humble, working folk. These are the tools of our liberation. - Jax Groll",
+   "After seeing the effectiveness of simple axes in small melee actions, the Inquisitors of Crucis ordered a large custom shipment from Atrox with which to equip their strike teams.",
+   "A heavy grenade launcher beloved of Bullgryn units, grenadier gauntlets are strapped to their user's arm simply to prevent the slow-witted Ogryn from losing them...",
+   "It's a dirty job, but someone's got to do it. And nine times out of ten, that someone is an Ogryn.",
+   "In the hands of an Ogryn, these massive, crude cleavers can rend a grown man in half with a single swipe.",
+   "With their honed, monomolecular-edged teeth, chainswords are prized within the Astra Militarum, where they are often issued to squad sergeants as a symbol of authority.",
+   "The Catachans refer to these massive blades as knives. To everyone else, they're hefty swords.",
+   "They say a Catachan Jungle Fighter can take down a full-grown Cudbear with one of these knives. Well, anything they can do, the Moebian 100th can do better! - Major Neena Kolfex",
+   "Named after the Catachan Devil, a fearsome predator from the Catachan jungles, this massive blade is the most prized weapon of the eponymous regiment.",
+   "Closer to a sword than a knife, the Devil's Claw's blade is hollow and half-filled with mercury, makint it surprisingly lightweight while lending it greater swinging power.",
+   "A commander's prime concern is strategy. A soldier's duty is to plant their feet and blaze away. - Lord Militant Ennic Baross",
+   "A rarity in the Moebian Domain, Columnus autoguns are prized for their high rate of fire, if somewhat deafening report.",
+   "Power weapons of ancient design, Thunder Hammers are devastating, bone-shattering close combat weapons, though heavy and unwieldy.",
+   "Through the intricate psi-convectors of a force staff, a Psyker harnesses the pure energy of the warp, unleashing it upon their enemies in ferocious psychic cavalcades.",
+   "Let your mind be the weapon. The staff is merely there to light the darkness.",
+   "A ripper gun is, in essence, a heavy, automatic shotgun. They are built as simply and solidly as possible, because most Ogryns in the field forget about shooting, instead using whatever they have to hand as improvised melee weapons.",
+   "A rare pattern of ripper gun, the Foe-Rend Mk V was an attempt to use a tightly focussed scatter shell to improve the Ogryns' aim at long range. Given the Ogryn propensity for charging widly into combat, the experiment was quickly abandoned.",
+   "Compensating for the Ogryns' lack of focus, this ripper gun variant combines a wide scattershot with a semi-auto burst mode, causing very loud, very messy carnage at close range.",
+   "They say the forge world be cursed. Ha! Give me a hundred soldiers armed with such weapons, and by the Emperor I say it's the enemy who'll feel the curse! - Captain Jerzy Modamus",
+   "Well-regarded for their high rate of fire and sturdy construction, these autoguns are in short supply after a series of calamities befell the forge world of Graia.",
+   "The Indignatus Mk IVe Crusher was added to Darktide shortly after the launch of the game.",
+   "More popular with hive gangers than Moebian military forces, this autopistol's devastating rate of fire is near-legendary.",
+   "++DILIGENCE IS DUTY++",
+   "The MG Mk IV was something of a short-lived experiment, sacrificing stopping power in favor of an improved rate of fire.",
+   "With its improved charge pack and focussing array, the MG XII is amongst the most powerful lasguns to come out of the manufactorums of Kantrael, albeit somewhat slower to fire than its cousins.",
+   "These enourmous blades are almost too heavy for a guardsman to lift, but in the hands of an Ogryn they're little more than lightweight daggers.",
+   "Nothing gets an Ogryn's blood up quite like the deafening noise and high-power recoil of a full-auto heavy weapon, and they don't come much louder or more powerful than a twin-linked heavy stubber.",
+   "Ogryn likes to slash, slash, slash and more slash!",
+   "Based on the ubiquitous weapon long carried by the Adeptus Arbites, this semi-automatic shotgun is deadly at short range.",
+   "A variant of an old Adeptus Arbites design, Lock-pattern boltguns are known for their reliability and stopping power.",
+   "The orbital manufactorum Lorenz is most well-known for forging heavy ordnance for the Imperial Navy. As a sideline, however, its Tech-Adepts create Ogryn-proof field weapons based on primitive designs.",
+   "One of the simplest grenade launchers constructed in the Imperium, \"rumblers\" have more in common with primitive mortars than the usual weaponry made on the Lorenz forge world.",
+   "Most Lucius-pattern lasguns operate in the 21 megathoule range, discharging a more powerful shot, but draining their power packs more rapidly.",
+   "A more elegant design of the Lucius Mk i. Once the preserve of officers in the Death Korps of Krieg, this aging but reliable model has found its way into the hands of soldiers across the galaxy.",
+   "With their extended barrels and bayonet loops, Lucius-pattern lasguns are well-regarded by assault troops who seek out melee after discharging a few volleys.",
+   "Firing an energized ball of hydrogen-based plasma along a linear electromagnetic accelerator, plasma guns are deadly, if prone to dangerous overheating.",
+   "It is said that Saint Drusus (formerly Lord-General Militant Drusus) was a consummate swordsman, who wielded an ornate duelling sword unto his dying breath.",
+   "Maccabian swords are renowned for their light weight, keen edge and ostentatious detailing. The Mk IV is a particular favorite of Navy commanders, Rogue Traders and Lord Inquisitors alike.",
+   "Most Imperial swords are simple, heavy affairs, designed for the unskilled NCO to use with lethal effect. Not so Maccabian sabres, which require years of practice to master.",
+   "When activated, a power sword is wreathed in a hazy energy field, allowing the blade to slice through armour and flesh alike.",
+   "A Force Staff grounds a Psyker, helping them resist daemonic possession.",
+   "An elegant weapon, made powerful indeed in the hands of a psyker.",
+   "Inspired by the enormous chain weapons employed by the Legio Tempestus titans, Orestes chainaxes are brutal in their simplicity.",
+   "Simple but effective, a slab shield turns an Ogryn into a wall of walking cover, near impervious to enemy attacks.",
+   "The humble combat axe is an unfashionable but effective weapon, its weighted head often doing far more damage on the swing than the blade itself.",
+   "The Inquisitor leads the way with words of benevolence, his force staff held like a symbol of faith. But make no mistake: they are no shepherds of the meek. They are destroyers of worlds. - High Ecclesiarch Renald Kothar",
+   "A sturdy shovel, typically with one sharp edge for cutting is a standard piece of kit in an infantry platoon's support gear.",
+   "An obscenely oversized chainsword, the Eviscerator utilizes a low-power disruption field to enhance its incredibly messy, destructive capabilities.",
+   "The Turtolsky MK IX Heavy Sword Weapon.",
+   "Originally created for the Costroyan Firstborn, the Turtolsky heavy sword became a popular weapon amongst navy crews and Rogue Traders.",
+   "The curved, single-edged bladed of Turtolsky swords are designed to deliver punishing, sweeping blows to massed foes, though their armour penetration can be poor.",
+   "A prized autogun pattern from the vaunted manufactorums of Vraks, the Mk III sacrifices rate of fire in favour of increased range.",
+   "Heavily modified to combat snipers during siege actions, the Vraks Headhunter is an unusual single-shot autogun designed for high-accuracy takedowns.",
+   "One of the most ancient pistol designs, stub revolvers endure across myriad frontier worlds thanks to their durability, simplcity and effectiveness."
+  ]
+ },
+ "modifiers": {
+  "Modifier": [
+   "Ammo",
+   "Blast Damage",
+   "Blast Radius",
+   "Burn",
+   "Charge Rate",
+   "Cleave Damage",
+   "Cleave Targets",
+   "Cloud Radius",
+   "Collateral",
+   "Critical Bonus",
+   "Crowd Control",
+   "Damage",
+   "Defences",
+   "Finesse",
+   "First Target",
+   "Melee Damage",
+   "Mobility",
+   "Penetration",
+   "Penetration (Blast)",
+   "Power Output",
+   "Quell Speed",
+   "Range",
+   "Reload Speed",
+   "Shredder",
+   "Stability",
+   "Stopping Power",
+   "Thermal Resistance",
+   "Warp Resistance"
+  ],
+  "Description": [
+   "\nWeapon's Ammo capacity.\n",
+   "\nMeasure of the explosion Damage.\n",
+   "\nMeasure of the explosion Radius.\n",
+   "\nStrength of the Weapon's Damage over Time (DoT) effects.\n",
+   "\nHow fast the Charge Attack charges.\n",
+   "\nDamage delivered to additional Enemies Hit beyond the main target.\n",
+   "\nThe higher the Cleave, the more enemies hit in one swing.\n",
+   "\nThe Range and Size of the Flame. Affects how many enemies are hit and suppressed.\n",
+   "\nIncreases the Weapon's Stagger, Impact and Suppression.\n",
+   "\nChance of landing a Critical Hit and how much damage it will do.\n",
+   "\nIncreases a weapon's Stagger, Impact and Cleave.\n",
+   "\nHow much damage the weapon inflicts.\n",
+   "\nAffects Stamina efficiency, as well as the length and speed of dashes.\n",
+   "\nIncreases the Weapon's Attack Speed and grants bonus to Critical Hits and Weak Spot Hits.\n",
+   "\nHow much damage done to the first Enemy hit when hitting multiple enemies in one swing.\n",
+   "\nHow much damage the weapon inflicts in melee.\n",
+   "\nMeasure of Movement Speed, Sprint Speed, and Dodge distance bonus while the weapon is active.\n",
+   "\nWeapon's effectiveness against Armoured enemies.\n",
+   "\nExplosion's effectiveness against Armoured enemies.\n",
+   "\nDamage inflicted by the powered up/activated attacks on Power Maul and similar power weapons.\n",
+   "\nBonus to Quelling the wielder's Peril or Venting at the Weapon's Overcharge (as appropriate).\n",
+   "\nEffective Range of the weapon before Damage fall-off kicks in.\n",
+   "\nMeasure of the time it takes to Reload.\n",
+   "\nMeasure of a weapon's damage while its Special Action is active.\n",
+   "\nAffects Recoil, Spread and Sway after firing the Weapon.\n",
+   "\nMeasure of the Impact and Stagger inflicted on enemies.\n",
+   "\nUse of this weapon generates Heat. The higher the Thermal Resistance value, the less Heat is generated with each attack.\n",
+   "\nUse of this weapon increases a Psyker's Peril. The higher the Warp Resistance, the less Peril is generated with each attack.\n"
+  ]
+ }
+}
