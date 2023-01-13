@@ -22,8 +22,12 @@ class ProcessDataTables():
             json.dump(gameslantern_request_dict, f, indent=1)
 
     def get_last_update_as_dataframes():
-        with open("backup.json") as json_file:
-            gameslantern_request_dict = json.load(json_file)
+        try:
+            with open("/var/www/html/darktide-best-in-slot/backup.json") as json_file:
+                gameslantern_request_dict = json.load(json_file)
+        except:    
+            with open("backup.json") as json_file:
+                gameslantern_request_dict = json.load(json_file)
 
         gameslantern_df_dict = {}    
         gameslantern_df_dict["weapons"] = pd.DataFrame(gameslantern_request_dict["weapons"])
