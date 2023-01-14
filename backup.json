@@ -1043,7 +1043,6 @@
    "+6-12% Stamina Regeneration",
    "+8-10% Block Efficiency",
    "1-4% Cooldown Reduction",
-   "5-30% Toughness Damage Reduction",
    "6-15% Sprint Cost Reduction"
   ]
  },
@@ -1185,6 +1184,684 @@
    "A prized autogun pattern from the vaunted manufactorums of Vraks, the Mk III sacrifices rate of fire in favour of increased range.",
    "Heavily modified to combat snipers during siege actions, the Vraks Headhunter is an unusual single-shot autogun designed for high-accuracy takedowns.",
    "One of the most ancient pistol designs, stub revolvers endure across myriad frontier worlds thanks to their durability, simplcity and effectiveness."
+  ],
+  "Weapon Blessings": [
+   [
+    "Confident Strike",
+    "Haymaker",
+    "Momentum",
+    "Perfect Strike",
+    "Skullcrusher",
+    "Smackdown",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Between the Eyes",
+    "Dumdum",
+    "Ghost",
+    "Infernus",
+    "Raking Fire",
+    "Reassuringly Accurate",
+    "Run 'N' Gun",
+    "Speedload"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Deathspitter",
+    "Dumdum",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Deathspitter",
+    "Dumdum",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Deathspitter",
+    "Dumdum",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire"
+   ],
+   [
+    "Brutal Momentum",
+    "Confident Strike",
+    "Skullcrusher",
+    "Thunderstrike"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Dumdum",
+    "Fire Frenzy",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Run 'N' Gun",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire",
+    "Terrifying Barrage"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Speedload",
+    "Stripped Down",
+    "Terrifying Barrage"
+   ],
+   [
+    "Between the Eyes",
+    "Crucian Roulette",
+    "Deadly Accurate",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "No Respite",
+    "Opening Salvo",
+    "Punishing Salvo",
+    "Surgical",
+    "Terrifying Barrage"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Blaze Away",
+    "Fan the Flames",
+    "Inspiring Barrage",
+    "Overpressure",
+    "Quickflame",
+    "Showstopper"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred"
+   ],
+   [
+    "Blaze Away",
+    "Gloryhunter",
+    "Pinpointing target",
+    "Reassuringly Accurate",
+    "Shattering Impact"
+   ],
+   [
+    "Brutal Momentum",
+    "Confident Strike",
+    "Perfect Strike",
+    "Skullcrusher",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Bash",
+    "Confident Strike",
+    "Devastating Strike",
+    "Momentum",
+    "Savage Sweep",
+    "Slaughterer",
+    "Tenderiser",
+    "Thrust",
+    "Unstoppable Force"
+   ],
+   [
+    "Bloodletter",
+    "Bloodthirsty",
+    "Devastating Strike",
+    "Rampage",
+    "Rev It Up",
+    "Savage Sweep",
+    "Shred",
+    "Shred",
+    "Skullcrusher",
+    "Wrath"
+   ],
+   [
+    "Devastating Strike",
+    "Hammerblow",
+    "Rampage",
+    "Savage Sweep",
+    "Shred",
+    "Skullcrusher",
+    "Thunderstrike",
+    "Vicious Slice",
+    "Wrath"
+   ],
+   [
+    "Executor",
+    "Flesh Tearer",
+    "Haymaker",
+    "Lacerate",
+    "Mercy Killer",
+    "Precognition",
+    "Ruthless Backstab",
+    "Shred",
+    "Smackdown",
+    "Uncanny Strike"
+   ],
+   [
+    "Devastating Strike",
+    "Hammerblow",
+    "Rampage",
+    "Savage Sweep",
+    "Shred",
+    "Skullcrusher",
+    "Thunderstrike",
+    "Vicious Slice",
+    "Wrath"
+   ],
+   [
+    "Devastating Strike",
+    "Hammerblow",
+    "Rampage",
+    "Savage Sweep",
+    "Shred",
+    "Skullcrusher",
+    "Thunderstrike",
+    "Vicious Slice",
+    "Wrath"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Speedload",
+    "Stripped Down",
+    "Terrifying Barrage"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Dumdum",
+    "Fire Frenzy",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Run 'N' Gun",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire",
+    "Terrifying Barrage"
+   ],
+   [
+    "Hammerblow",
+    "Headtaker",
+    "Momentum",
+    "Shock & Awe",
+    "Skullcrusher",
+    "Slaughterer",
+    "Thrust",
+    "Thunderous",
+    "Thunderstrike",
+    "Trauma"
+   ],
+   [
+    "Blazing Spirit",
+    "Focused Channeling",
+    "Rending Shockwave",
+    "Run 'N' Gun",
+    "Sustained Fire",
+    "Terrifying Barrage",
+    "Transfer Peril",
+    "Warp Flurry",
+    "Warp Nexus"
+   ],
+   [
+    "Blazing Spirit",
+    "Focused Channeling",
+    "Run 'N' Gun",
+    "Sustained Fire",
+    "Terrifying Barrage",
+    "Transfer Peril",
+    "Warp Flurry",
+    "Warp Nexus"
+   ],
+   [
+    "Blaze Away",
+    "Born in Blood",
+    "Can Opener",
+    "Cavalcade",
+    "Fire Frenzy",
+    "Flechette",
+    "Inspiring Barrage",
+    "Terrifying Barrage"
+   ],
+   [
+    "Blaze Away",
+    "Born in Blood",
+    "Can Opener",
+    "Cavalcade",
+    "Fire Frenzy",
+    "Flechette",
+    "Inspiring Barrage",
+    "Terrifying Barrage"
+   ],
+   [
+    "Blaze Away",
+    "Born in Blood",
+    "Can Opener",
+    "Cavalcade",
+    "Fire Frenzy",
+    "Flechette",
+    "Inspiring Barrage",
+    "Terrifying Barrage"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Speedload",
+    "Stripped Down",
+    "Terrifying Barrage"
+   ],
+   [
+    "Crucian Roulette",
+    "Deathspitter",
+    "Dumdum",
+    "Fire Frenzy",
+    "Hit & Run",
+    "Punishing Salvo",
+    "Raking Fire",
+    "Run 'N' Gun",
+    "Speedload",
+    "Stripped Down",
+    "Sustained Fire",
+    "Terrifying Barrage"
+   ],
+   [
+    "Hammerblow",
+    "Skullcrusher",
+    "Thunderstrike",
+    "Trauma"
+   ],
+   [
+    "Blaze Away",
+    "Cavalcade",
+    "Inspiring Barrage",
+    "Powderburn",
+    "Raking Fire",
+    "Speedload",
+    "Sustained Fire"
+   ],
+   [
+    "Between the Eyes",
+    "Crit chance on weakspot hit",
+    "Deadly Accurate",
+    "Efficiency",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "No Respite",
+    "Opening Salvo"
+   ],
+   [
+    "Between the Eyes",
+    "Crit chance on weakspot hit",
+    "Deadly Accurate",
+    "Efficiency",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "No Respite",
+    "Opening Salvo"
+   ],
+   [
+    "Between the Eyes",
+    "Crit chance on weakspot hit",
+    "Deadly Accurate",
+    "Efficiency",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "Hit & Run",
+    "Infernus",
+    "No Respite",
+    "Opening Salvo"
+   ],
+   [
+    "Bash",
+    "Confident Strike",
+    "Devastating Strike",
+    "Momentum",
+    "Savage Sweep",
+    "Slaughterer",
+    "Tenderiser",
+    "Thrust",
+    "Unstoppable Force"
+   ],
+   [
+    "Blaze Away",
+    "Ceaseless Barrage",
+    "Charmed Reload",
+    "Deathspitter",
+    "Dumdum",
+    "Inspiring Barrage",
+    "Roaring Advance"
+   ],
+   [
+    "Bash",
+    "Confident Strike",
+    "Devastating Strike",
+    "Momentum",
+    "Savage Sweep",
+    "Slaughterer",
+    "Tenderiser",
+    "Thrust",
+    "Unstoppable Force"
+   ],
+   [
+    "Deathspitter",
+    "Fire Frenzy",
+    "Flechette",
+    "Full Bore",
+    "Hit & Run",
+    "Man-Stopper",
+    "No Respite",
+    "Scattershot",
+    "Speedload",
+    "Terrifying Barrage"
+   ],
+   [
+    "Cavalcade",
+    "Gloryhunter",
+    "Inspiring Barrage",
+    "Pinning Fire",
+    "Shattering Impact",
+    "Surgical"
+   ],
+   [
+    "Blaze Away",
+    "Expansive",
+    "Full Bore",
+    "Inspiring Barrage",
+    "Pierce",
+    "Punishing Fire",
+    "Surgical"
+   ],
+   [
+    "Adhesive Charge",
+    "Gloryhunter",
+    "Inspiring Barrage",
+    "Pierce",
+    "Shattering Impact"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Falter",
+    "Ghost",
+    "Infernus",
+    "No Respite",
+    "Onslaught",
+    "Surgical",
+    "Sustained Fire"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Falter",
+    "Ghost",
+    "Infernus",
+    "No Respite",
+    "Onslaught",
+    "Surgical",
+    "Sustained Fire"
+   ],
+   [
+    "Crit chance on weakspot hit",
+    "Falter",
+    "Ghost",
+    "Infernus",
+    "No Respite",
+    "Onslaught",
+    "Surgical",
+    "Sustained Fire"
+   ],
+   [
+    "Blaze Away",
+    "Gets Hot!",
+    "Gloryhunter",
+    "Shattering Impact",
+    "Volatile Impact"
+   ],
+   [
+    "Precognition",
+    "Rampage",
+    "Riposte",
+    "Shred",
+    "Uncanny Strike"
+   ],
+   [
+    "Precognition",
+    "Rampage",
+    "Riposte",
+    "Shred",
+    "Uncanny Strike"
+   ],
+   [
+    "Precognition",
+    "Rampage",
+    "Riposte",
+    "Shred",
+    "Uncanny Strike"
+   ],
+   [
+    "Brutal Momentum",
+    "Power Cycler",
+    "Rampage",
+    "Savage Sweep",
+    "Slaughterer",
+    "Sunder",
+    "Supercharge"
+   ],
+   [
+    "Focused Channeling",
+    "Run 'N' Gun",
+    "Terrifying Barrage",
+    "Warp Flurry",
+    "Warp Nexus"
+   ],
+   [
+    "Blazing Spirit",
+    "Deflector",
+    "Executor",
+    "Exorcist",
+    "Precognition",
+    "Riposte",
+    "Shred",
+    "Slaughterer",
+    "Superiority",
+    "Uncanny Strike",
+    "Unstable Power"
+   ],
+   [
+    "Bloodletter",
+    "Headtaker",
+    "Rev It Up",
+    "Shred",
+    "Slaughterer",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Brutal Momentum",
+    "Confident Strike",
+    "Skullcrusher",
+    "Thunderstrike"
+   ],
+   [
+    "All or Nothing",
+    "Brutal Momentum",
+    "Decapitator",
+    "Decimator",
+    "Headtaker",
+    "Limbsplitter",
+    "Shred",
+    "Thrust",
+    "Thunderous"
+   ],
+   [
+    "Focused Channeling",
+    "Run 'N' Gun",
+    "Terrifying Barrage",
+    "Warp Flurry",
+    "Warp Nexus"
+   ],
+   [
+    "All or Nothing",
+    "Decimator",
+    "Hammerblow",
+    "Limbsplitter",
+    "Skullcrusher",
+    "Thrust",
+    "Thunderstrike",
+    "Uncanny Strike"
+   ],
+   [
+    "Bloodletter",
+    "Momentum",
+    "Perfect Strike",
+    "Rampage",
+    "Rev It Up",
+    "Savage Sweep",
+    "Shred",
+    "Wrath"
+   ],
+   [
+    "Brutal Momentum",
+    "Deathblow",
+    "Devastating Strike",
+    "Headtaker",
+    "Perfect Strike",
+    "Rampage",
+    "Savage Sweep",
+    "Wrath"
+   ],
+   [
+    "Brutal Momentum",
+    "Deathblow",
+    "Devastating Strike",
+    "Headtaker",
+    "Perfect Strike",
+    "Rampage",
+    "Savage Sweep",
+    "Wrath"
+   ],
+   [
+    "Brutal Momentum",
+    "Deathblow",
+    "Devastating Strike",
+    "Headtaker",
+    "Perfect Strike",
+    "Rampage",
+    "Savage Sweep",
+    "Wrath"
+   ],
+   [
+    "Between the Eyes",
+    "Crucian Roulette",
+    "Deadly Accurate",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "No Respite",
+    "Opening Salvo",
+    "Punishing Salvo",
+    "Surgical",
+    "Terrifying Barrage"
+   ],
+   [
+    "Between the Eyes",
+    "Crucian Roulette",
+    "Deadly Accurate",
+    "Falter",
+    "Ghost",
+    "Headhunter",
+    "No Respite",
+    "Opening Salvo",
+    "Punishing Salvo",
+    "Surgical",
+    "Terrifying Barrage"
+   ],
+   [
+    "Crucian Roulette",
+    "Gloryhunter",
+    "Hand-Cannon",
+    "Point Blank",
+    "Run 'N' Gun",
+    "Surgical",
+    "Sustained Fire",
+    "Terrifying Barrage",
+    "Trickshooter",
+    "crit_chance_bonus_on_melee_kills"
+   ]
   ]
  },
  "modifiers": {

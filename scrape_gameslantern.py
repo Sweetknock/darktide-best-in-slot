@@ -17,16 +17,8 @@ class ScrapeGamesLantern:
         response = requests.get(url)
         html_source_code = response.text
 
-        #If selenium argument is true the the page data is dynamically loaded and we need the browser to run the JS functions.
-        options = Options()
-        options.headless = True
-        options.add_argument('--ignore-certificate-errors')
-        options.add_argument('--ignore-ssl-errors')
-        driver = webdriver.Chrome(options=options) 
         if self.gameslantern_request["selenium"]:
-            driver.get(url)
-            time.sleep(5) 
-            html_source_code = driver.page_source
+            html_source_code = self.use_selenium(url)
 
         #Get soup or return
         self.soup = BeautifulSoup(html_source_code, 'html.parser')
@@ -34,6 +26,18 @@ class ScrapeGamesLantern:
         if self.soup is None:
             print("Could not soup parse html")
             return 
+
+    def use_selenium(self, url):
+        #If selenium argument is true the the page data is dynamically loaded and we need the browser to run the JS functions.
+        options = Options()
+        options.headless = True
+        options.add_argument('--ignore-certificate-errors')
+        options.add_argument('--ignore-ssl-errors')
+        driver = webdriver.Chrome(options=options) 
+        driver.get(url)
+        time.sleep(5) 
+        html_source_code = driver.page_source
+        return html_source_code
 
 #Function to get request instructions from json file and prepare them based on different search methods 
     def get_html_data_from_request_json(self):
@@ -48,12 +52,28 @@ class ScrapeGamesLantern:
             if "subsearch" in list(html.keys()):
                 subsearch = html["subsearch"]
                 subsearch_method = html["subsearch_method"]
-                data_dict[html_header] = [[b.text for b in self.find_in_html(a, subsearch, method = subsearch_method)] for a in html_list]
-            
-            else: 
-                data_dict[html_header] = [txt.text for txt in html_list]
 
-            
+                subsearch_list = []
+                for item in html_list:
+                    if "//" in item:
+                        response = requests.get(item)
+                        html_source_code = response.text
+                        try:
+                            subsoup = BeautifulSoup(html_source_code, 'html.parser')
+                            subsearch_list.append([b.text for b in self.find_in_html(subsoup, subsearch, method = subsearch_method)])
+                        except:
+                            html_source_code = self.use_selenium(item)
+                            subsoup = BeautifulSoup(html_source_code, 'html.parser')
+                            subsearch_list.append([b.text for b in self.find_in_html(html_source_code, subsearch, method = subsearch_method)])
+                    else:     
+                        subsearch_list.append([b.text for b in self.find_in_html(item, subsearch, method = subsearch_method)])
+                data_dict[html_header] = subsearch_list
+
+            else:
+                if isinstance(html_list[0], str):
+                    data_dict[html_header] = html_list
+                else:
+                    data_dict[html_header] = [txt.text for txt in html_list]
             #Also, get keep some meta data for each line. 
             #data_dict[html_header + " HTML Search text"]=[html_text]*len(html_list)
             #data_dict[html_header + " HTML Search Method"]=[html_method]*len(html_list)
@@ -69,6 +89,11 @@ class ScrapeGamesLantern:
 
         if method == "by_class":
             html_list = html.find_all(class_=search_text)
+            return html_list
+
+        elif method == "by_class_get_href":
+            html_list = html.find_all(class_=search_text)
+            html_list = [el['href'] for el in html_list]
             return html_list
 
         elif method == "by_sibling_text":

@@ -42,3 +42,5 @@ class ProcessDataTables():
         gameslantern_df_dict["curios"] = pd.DataFrame({"catagory":curio_catagory, "trait":curio_trait})
 
         return gameslantern_df_dict
+
+ProcessDataTables.check_games_lantern_and_update("darktide_gameslantern_requests_text.json")

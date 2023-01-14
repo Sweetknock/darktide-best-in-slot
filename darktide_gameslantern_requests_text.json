@@ -18,7 +18,8 @@
         "url":"https://darktide.gameslantern.com/weapons",
         "selenium":true,
         "html_text": [{"search": "Accatran MG Mk II Heavy Laspistol", "header":"Weapon", "method":"by_class_text"}, 
-        {"search":"Used by officers of the Astra Militarum throughout the galaxy, this heavy laspistol packs a considerable punch.", "header":"Description", "method":"by_class_text"}]           
+        {"search":"Used by officers of the Astra Militarum throughout the galaxy, this heavy laspistol packs a considerable punch.", "header":"Description", "method":"by_class_text"},
+        {"search":"flex items-center gap-6 p-2 pt-4 bg-neutral-900 bg-opacity-90 border-2 border-[#4F674E] hover:bg-[#3D503C] hover:bg-opacity-60 max-w-lg w-full", "header":"Weapon Blessings", "method":"by_class_get_href", "subsearch":"font-bold text-[#ecf1e8] text-xl", "subsearch_method":"by_class"}]           
     },
 
     "modifiers":{
