@@ -11,7 +11,7 @@ table {
 th, td {
   width: 25%;
   text-align: left;
-  vertical-align: top;
+  vertical-align: center;
   border: 1px solid #000;
   border-collapse: collapse;
   padding: 0.3em;
