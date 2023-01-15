@@ -1862,6 +1862,684 @@
     "Trickshooter",
     "crit_chance_bonus_on_melee_kills"
    ]
+  ],
+  "Weapon Blessing Description": [
+   [
+    "+5-8% Toughness on Chained Hit",
+    "+1-4% to Instakill human-sized enemies on Chained Heavy Hit. Stacks 5 Times.",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "+5-10% Critical Chance for 2 seconds on Special Action Hit (Staggered Enemy).",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "+4-10% Toughness on Critical Hit Kill",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+4-10% Reload Speed for 2 seconds after Sliding."
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+1-2 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+1-2 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+1-2 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+5-8% Toughness on Chained Hit",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "Primary Attack ignores 30-60% Stagger Resistance on Burning Enemies.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Up to +2-5% Power, scaling with remaining Ammunition. Stacks 5 times.",
+    "+5-10% Reload Speed if empty.",
+    "+5-20% Elite enemy Explodes on kill."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+4-10% Toughness on Elite Kill.",
+    "Up to +5-20% Power based on the Charge Time of your Weapon special and Melee Attacks. Stacks 3 times.",
+    "+4-10% Toughness on Critical Hit Kill",
+    "+1-4 Rending (Armoured Enemies)."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+5-8% Toughness on Chained Hit",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "+1-4% Critical Chance for 3 seconds on Punishing Enemies.",
+    "+5-8% Toughness on Chained Hit",
+    "Ignore Enemy hit mass on critical hit. Lasts 3-4 seconds.",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "+7.5-15% Power (next attack) on Special Action Hit.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Heavy Attacks ignore Hit Mass Bonus From Armour."
+   ],
+   [
+    "+2-4 Bleed Stacks from Special Attacks.",
+    "100% Critical Chance on Special Attack Kill.",
+    "Ignore Enemy Hit Mass on Critical Hit. Lasts 2-4 seconds.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+5-15% Movement Speed for 2 seconds on Weapon Speical Activation.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Consecutive hits increases critical hit chance by 2-5% per hit. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+2-5% Damage to Target for each Enemy already Hit by the same Attack.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "+2-5% on Repeated Weak Spot Hit. Stacks 5 times.",
+    "+1-4 Bleed Stacks on Critical Hits.",
+    "+1-4% to Instakill human-sized enemies on Chained Heavy Hit. Stacks 5 Times.",
+    "+1-4 Bleed Stacks on non-Weak Spot Hits.",
+    "+20-50% Weak Spot Damage (Enemies with Bleed Stacks).",
+    "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+    "+20-50% Rending on Backstab Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+5-10% Critical Chance for 2 seconds on Special Action Hit (Staggered Enemy).",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+2-5% Damage to Target for each Enemy already Hit by the same Attack.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+2-5% Damage to Target for each Enemy already Hit by the same Attack.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "-25-40% Enemy Hit Mass for 0.5 seconds on kill. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+5-10% Impact for 2 seconds on Repeated Hit. Stacks 5 times."
+   ],
+   [
+    "Enemy gains +1-2 Stacks of Soulblaze on Critical Hit.",
+    "Your Secondary Attack cannot be interrupted.",
+    "Up to +2-8 Rending, scaling with your charge time of Secondary Attack.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill.",
+    "Quell 2-5% of your Peril on Weak Spot Hit.",
+    "+-4-10% Charge Rate on chained Secondary Attack. Stacks 5 times.",
+    "Increases your critical hit chance by 2-5% at different increments of Peril up to 4 stacks."
+   ],
+   [
+    "Enemy gains +1-2 Stacks of Soulblaze on Critical Hit.",
+    "Your Secondary Attack cannot be interrupted.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill.",
+    "Quell 2-5% of your Peril on Weak Spot Hit.",
+    "+-4-10% Charge Rate on chained Secondary Attack. Stacks 5 times.",
+    "Increases your critical hit chance by 2-5% at different increments of Peril up to 4 stacks."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+1-2.5% Toughness on Close Range Kill.",
+    "+1-4 Rending on Special Attack (Armoured enemies).",
+    "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "+1 Bleed Stacks on Critical Hit.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+1-2.5% Toughness on Close Range Kill.",
+    "+1-4 Rending on Special Attack (Armoured enemies).",
+    "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "+1 Bleed Stacks on Critical Hit.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+1-2.5% Toughness on Close Range Kill.",
+    "+1-4 Rending on Special Attack (Armoured enemies).",
+    "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "+1 Bleed Stacks on Critical Hit.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+3-9% Sprint Speed (Weapon is Active).",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+5-10% Impact for 2 seconds on Repeated Hit. Stacks 5 times."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "+5-15% Suppression and +5-15% Recoil on close range kill.",
+    "+15-30% Damage when shooting Enemies in the back.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+33% Reduced Ammo use after not shooting for 5.5-4 seconds.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+33% Reduced Ammo use after not shooting for 5.5-4 seconds.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+33% Reduced Ammo use after not shooting for 5.5-4 seconds.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot."
+   ],
+   [
+    "+1-4% Critical Chance for 3 seconds on Punishing Enemies.",
+    "+5-8% Toughness on Chained Hit",
+    "Ignore Enemy hit mass on critical hit. Lasts 3-4 seconds.",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "+7.5-15% Power (next attack) on Special Action Hit.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Heavy Attacks ignore Hit Mass Bonus From Armour."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "Continuous firing increases Suppression over time.",
+    "+8 Bullets loaded on Critical Hit.",
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "+1-2.5% Close Range damage on Repeated Hit. Stacks 5 times.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "5-15% Movement Speed while firing."
+   ],
+   [
+    "+1-4% Critical Chance for 3 seconds on Punishing Enemies.",
+    "+5-8% Toughness on Chained Hit",
+    "Ignore Enemy hit mass on critical hit. Lasts 3-4 seconds.",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "+7.5-15% Power (next attack) on Special Action Hit.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Heavy Attacks ignore Hit Mass Bonus From Armour."
+   ],
+   [
+    "+5-6.5% Power for 1-1.375 seconds on Close Range Kill.",
+    "Gain a 4-10% Power increase against nearby enemies for 1.75 seconds after killing an enemy at close range.",
+    "+1 Bleed Stacks on Critical Hit.",
+    "+2-5% Power for 5 seconds when every pellet in a shot hits the same enemy.",
+    "Immune to Ranged Attacks for 0.4-0.7 seconds on Close Range Kill.",
+    "Increased Cleave on Critical Hit.",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+4% Critical Chance for 4 seconds on Multiple Hit.",
+    "+4-10% Reload Speed for 2 seconds after Sliding.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+1-4% Critical Chance. Stracks up to 5 based on duration of Continuous Fire.",
+    "+4-10% Toughness on Elite Kill.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "+5-20% Power for every Enemy you Stagger. Stacks 5 times.",
+    "+1-4 Rending (Armoured Enemies).",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times."
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "+2-5% Melee Power for 4 seconds on Hitting 3+ Enemies with a Ranged Attack.",
+    "+2-5% Power for 5 seconds when every pellet in a shot hits the same enemy.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Special Attacks ignore Hit Mass Bonus from Armour.",
+    "+2-8% Power on Ranged Attacks for 3 seconds on Multiple Hit Special Attack.",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times."
+   ],
+   [
+    "Your Grenades stick to Monstrosities",
+    "+4-10% Toughness on Elite Kill.",
+    "Repenlish 10% Toughness over time during Continuous Fire. Stacks up to 5 times.",
+    "Special Attacks ignore Hit Mass Bonus from Armour.",
+    "+1-4 Rending (Armoured Enemies)."
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "Chaining Charged Attacks reduces their Charge Time by -4-10%. Stacks 5 times.",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "Chaining Charged Attacks reduces their Charge Time by -4-10%. Stacks 5 times.",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Shooting enemies in the head/weakspot increases your crit chance by 2%, until your next critical hit, stacks 5 times.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-3 Burn Stack(s) on Critical Hit to a maximum of 6-9 Stack(s).",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "Chaining Charged Attacks reduces their Charge Time by -4-10%. Stacks 5 times.",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "+6-15% Damage on Second and Third shots in a Salvo"
+   ],
+   [
+    "Up to +2% Power based on how long you keep shooting.",
+    "Up to +1-4% Critical Chance (scales on Heat Level).",
+    "+4-10% Toughness on Elite Kill.",
+    "+1-4 Rending (Armoured Enemies).",
+    "+1-4% Charge Speed on low Overheat. Stacks up to 5 times."
+   ],
+   [
+    "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+2-5% Critical Chance for 5 seconds on successful Dodge.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times."
+   ],
+   [
+    "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+2-5% Critical Chance for 5 seconds on successful Dodge.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times."
+   ],
+   [
+    "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+2-5% Critical Chance for 5 seconds on successful Dodge.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "Increased Energised Duration on Chained Energised Hits.",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "Your Energised Attacks have increased Cleave",
+    "+1-4 Rending on Energised Hit."
+   ],
+   [
+    "Your Secondary Attack cannot be interrupted.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill.",
+    "+-4-10% Charge Rate on chained Secondary Attack. Stacks 5 times.",
+    "Increases your critical hit chance by 2-5% at different increments of Peril up to 4 stacks."
+   ],
+   [
+    "Enemy gains +2-4 Stacks of Soulblaze on Critical Hit.",
+    "This Weapon blocks both Melee and Ranged attacks. Additionally, Block Cost is reduced by 3-12%.",
+    "+2-5% on Repeated Weak Spot Hit. Stacks 5 times.",
+    "Quell 2-5% of Peril on repeated weak spot hit.",
+    "+2-5% Weak Spot Damage & Critical Damage for 5 seconds on successful Dodge.",
+    "+2-5% Critical Chance for 5 seconds on successful Dodge.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "+5% Power for 5 seconds on Elite Kill. Stacks 5 times.",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times.",
+    "Up to +2-5% Power, scaling with Peril."
+   ],
+   [
+    "+2-4 Bleed Stacks from Special Attacks.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+5-15% Movement Speed for 2 seconds on Weapon Speical Activation.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+7.5-15% Power for 2 seconds on kill. Stacks 5 times.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+5-8% Toughness on Chained Hit",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "+10-25% Rending for 5 seconds on Enemy One-Shot. Stacks 3-5 times.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of 5% Brittelness on Hit. Lasts 5s."
+   ],
+   [
+    "Your Secondary Attack cannot be interrupted.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill.",
+    "+-4-10% Charge Rate on chained Secondary Attack. Stacks 5 times.",
+    "Increases your critical hit chance by 2-5% at different increments of Peril up to 4 stacks."
+   ],
+   [
+    "Up to +2-5% Power, scaling with Stamina.",
+    "+10-20% Power on Hit. Stacks 5 times.",
+    "+7.5-20% Impact for 1.5 seconds on Hit. Stacks 5 times.",
+    "+10-25% on First Attack in a Chain. Subsequent Attacks have -10-25% Power.",
+    "Target receives 1-4 Stacks of 5% Damage on Stagger. Lasts 1-5 second.",
+    "Up to +5-20% Power, scaling with Charge Time (Heavy Attack). Stacks 3 times.",
+    "Target receives 1-4 Stacks of +5% Impact if already Staggered. Lasts 5s.",
+    "+6-20% Rending on enemy weak spot hit for 2.5 seconds. Stacks 5 times."
+   ],
+   [
+    "+2-4 Bleed Stacks from Special Attacks.",
+    "+7.5-15% Toughness on Multiple Melee Hit.",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+5-15% Movement Speed for 2 seconds on Weapon Speical Activation.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+2-5% Bonus Critical Chance on repeated hit. Stacks 5 times.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy Hit Mass for 3.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy Hit Mass for 3.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Ignore Enemy Hit Mass for 1.5-4.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy Hit Mass for 3.5 seconds on Weak Spot Kill.",
+    "Ignore Enemy hit mass on critical hit. Lasts 2-4 seconds.",
+    "+2-5 Power for 3.5s on Hit. Stacks 5 times",
+    "Critical Hits ignore Hit Mass Bonus from Armour",
+    "+10-20% damage for 3 seconds on Multiple Hit.",
+    "+100-200% Cleave for 3 seconds on Multiple Melee Hit.",
+    "+10-20% Cleave on Hit. Stacks 5 times."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "Clears Suppression (Self) & grants Suppression Immunity (Self) for 0.6-0.9s on Weak Spot Hit.",
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "Adds 27.5-50% additional damage on crit weakspot hits.",
+    "+30-60% Target Stagger on Weak Spot Hit.",
+    "Immune to ranged attacks for 0.4-1.0 seconds on weak spot hit.",
+    "+2-5% Critical Chance on Weak Spot Hit until your next Critical Hit. Stacks 5 times.",
+    "Up to +12.5-20% Damage on Hit (Staggered Enemy), scaling with Stagger.",
+    "+7.55-15% Power on Salvo's First shot.",
+    "+5-20% Weak Spot Damage on Second and Third shots in a Salvo",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "Suppress Enemies within 5-8m Radius on Close range Kill."
+   ],
+   [
+    "+4% Critical Chance for each empty chamber in your weapon.",
+    "+4-10% Toughness on Elite Kill.",
+    "+20-35% Rending on Critical Hit.",
+    "+15-20% Ranged Critical Chance on Kill for 2 seconds.",
+    "You can Hipfire with this weapon while Sprinting.",
+    "+2-5% Critical Chance while aming. Builds Stacks over time. Stacks 5 times.",
+    "+6-15% Damage on Second and Third shots in a Salvo",
+    "Suppress Enemies within 5-8m Radius on Close range Kill.",
+    "2-5% Power on Chained Weak Spot Hit (Any Target). Stacks 5 Times.",
+    "5-20% Crit Chance bonus on melee kills"
+   ]
   ]
  },
  "modifiers": {
@@ -1911,7 +2589,7 @@
    "\nAffects Stamina efficiency, as well as the length and speed of dashes.\n",
    "\nIncreases the Weapon's Attack Speed and grants bonus to Critical Hits and Weak Spot Hits.\n",
    "\nHow much damage done to the first Enemy hit when hitting multiple enemies in one swing.\n",
-   "\nHow much damage the weapon inflicts in melee.\n",
+   "\nHow much damage the weapon inflicts in melee.\n ",
    "\nMeasure of Movement Speed, Sprint Speed, and Dodge distance bonus while the weapon is active.\n",
    "\nWeapon's effectiveness against Armoured enemies.\n",
    "\nExplosion's effectiveness against Armoured enemies.\n",
@@ -1922,7 +2600,7 @@
    "\nMeasure of a weapon's damage while its Special Action is active.\n",
    "\nAffects Recoil, Spread and Sway after firing the Weapon.\n",
    "\nMeasure of the Impact and Stagger inflicted on enemies.\n",
-   "\nUse of this weapon generates Heat. The higher the Thermal Resistance value, the less Heat is generated with each attack.\n",
+   "\nUse of this weapon generates Heat. The higher the Thermal Resistance value, the less Heat is generated with each attack.\n ",
    "\nUse of this weapon increases a Psyker's Peril. The higher the Warp Resistance, the less Peril is generated with each attack.\n"
   ]
  }

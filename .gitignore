@@ -165,4 +165,5 @@ vignettes/*.pdf
 /archive
 .gitignore
 !/apache_files
+debug_script.py
 # End of https://www.gitignore.io/api/r,python,visualstudiocode
