@@ -1,4 +1,4 @@
-from flask import Flask, render_template, session, redirect
+from flask import Flask, render_template
 from process_data_tables import ProcessDataTables
 
 app = Flask(__name__)
@@ -11,7 +11,7 @@ def html_table():
     curios_df = df_dict["curios"]
     
     weapon_df = df_dict["weapons"]
-    weapon_df["Weapon Blessings"] = [','.join([a +' - '+ b for (a,b) in zip(wb,wbd)]) for (wb, wbd) in zip(weapon_df["Weapon Blessings"].to_list(), weapon_df["Weapon Blessing Description"].to_list())]
+    weapon_df["Weapon Blessings"] = ['|'.join(['• ' + a +' - '+ b for (a,b) in zip(wb,wbd)]) for (wb, wbd) in zip(weapon_df["Weapon Blessings"].to_list(), weapon_df["Weapon Blessing Description"].to_list())]
     weapon_df = weapon_df.drop("Weapon Blessing Description", axis=1)
     #weapon_blessing_traits_df = df_dict["weapon-blessing-traits"]
     #modifiers_df = df_dict["modifiers"]
